@@ -1,0 +1,1 @@
+enum StateInfo { loading, done }
